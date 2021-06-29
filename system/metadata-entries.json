@@ -44,7 +44,8 @@
                 "1.8.2",
                 "1.9.1",
                 "1.10.0",
-                "1.11.0"
+                "1.11.0",
+                "1.12.1"
             ]
         },
         {
@@ -178,6 +179,22 @@
                 "Tiles",
                 "Trending"
             ]
+        },
+        {
+            "id": "PROGRAMMING-LANGUAGE",
+            "displayName": "Programming language",
+            "description": "The programming language(s) to build a solution",
+            "values": [
+                "C#",
+                "TypeScript", 
+                "JavaScript", 
+                "Power Apps", 
+                "Power Automate", 
+                "Python", 
+                "Java",
+                "Shell",
+                "PowerShell"
+                ]
         }
     ]
 }
